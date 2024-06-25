@@ -21,7 +21,7 @@ const TableHead = () => {
     );
 };
 
-const Table = () => {
+const CampaignTable = () => {
     return (
         <div className='overflow-x-auto'>
             <table className='min-w-full bg-white'>
@@ -67,7 +67,7 @@ const Table = () => {
     );
 };
 
-export default Table;
+export default CampaignTable;
 
 const data = [
     // Dummy data for demonstration :)

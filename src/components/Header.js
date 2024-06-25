@@ -12,9 +12,9 @@ const Header = ({ isSidebarOpen, toggleSidebar }) => {
                     onClick={toggleSidebar}
                 >
                     {isSidebarOpen ? (
-                        <h1 className='text-black'>X</h1>
+                        <Icon name={'menu'} className={'w-4 h-4'} />
                     ) : (
-                        <h1 className='text-black'>O</h1>
+                        <Icon name={'menu'} className={'w-4 h-4'} /> // change this icon
                     )}
                 </button>
             </div>

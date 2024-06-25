@@ -13,19 +13,19 @@ const links = [
     {
         path: '/trends',
         label: 'Trends',
-        icon: 'home',
+        icon: 'trending-up',
         link: true,
     },
     {
         path: '/live-campaigns',
         label: 'Live Campaigns',
-        icon: 'home',
+        icon: 'compaigns',
         link: true,
     },
     {
         path: '/reports',
         label: 'Reports',
-        icon: 'home',
+        icon: 'report',
         link: true,
     },
     {
@@ -35,13 +35,13 @@ const links = [
     {
         path: '/support',
         label: 'Support',
-        icon: 'home',
+        icon: 'support',
         link: true,
     },
     {
         path: '/settings',
         label: 'Settings',
-        icon: 'home',
+        icon: 'setting',
         link: true,
     },
 ];
