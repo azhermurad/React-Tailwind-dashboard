@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 const NavItem = ({ setIsSidebarOpen, data }) => {
     if (!data.link) {
-        return <li className='mb-1  p-[8px] flex items-center'>
+        return <li className='mb-1  p-[8px] flex items-center uppercase'>
             <span>
                 {data.label}
             </span>
