@@ -32,5 +32,6 @@ This project is a demonstration of converting a dashboard wireframe into a fully
     ```
 
 Here’s a preview of the dashboard:
+![Dashboard Screenshot](https://github.com/azhermurad/React-Tailwind-dashboard/blob/main/home.png)
 
 ![Dashboard Screenshot](https://github.com/azhermurad/React-Tailwind-dashboard/blob/main/table.png)
